@@ -1,0 +1,12 @@
+body,
+.container {
+    text-align: center;
+    padding: 5px auto;
+    margin: 0 auto;
+}
+
+form {
+    border: 1px solid black;
+    border-radius: 3px;
+    padding: 5px auto;
+}
